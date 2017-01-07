@@ -1,24 +1,36 @@
-# README
+#🎲 Gamesta Paradise 🌴
+> Rails app to help users and their friends like, share, and comment on their favorite board games.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+####Helpful Links
 
-Things you may want to cover:
+- [Github repo](https://github.com/JessCodes/game-share) *Development branch is production*
 
-* Ruby version
+- [Trello board](https://trello.com/b/iKYj3v4d/our-board-gameshare)
 
-* System dependencies
+- [Heroku] (https://gamestaparadise.herokuapp.com/)
 
-* Configuration
+###Our Team
+![heads](https://github.com/JessCodes/game-share/blob/development/readme_assets/team_heads.png)
+Frida | Jess | Jen | Kat
 
-* Database creation
+####Planning | Design |  Graphics
+###### Schema Design (complete, v.3)
+![d](https://github.com/JessCodes/game-share/blob/development/readme_assets/schema_v3.png)
 
-* Database initialization
+###### Favicon (complete)
+![]()
 
-* How to run the test suite
+###### Wireframes (complete)
+![check with games#edit](https://github.com/JessCodes/game-share/blob/development/readme_assets/gamesta-wireframes/games#edit)
 
-* Services (job queues, cache servers, search engines, etc.)
+![check with games\/edit](https://github.com/JessCodes/game-share/blob/development/readme_assets/gamesta-wireframes/"games\/edit)
+![]()
+![]()
 
-* Deployment instructions
 
-* ...
+###### Piktochart (in-progress)
+-[link to edit](https://magic.piktochart.com/output/19274758-gamesta)
+
+-[inspiration] (https://github.com/ashnkumar/BambooUberHackathon)
+
+![readme](http://i.imgur.com/QAvUVuZ.png)
